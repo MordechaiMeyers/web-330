@@ -1,2 +1,6 @@
-# web-330
-Repository for web-330 class
+# web-231 enterprise JavaScript I
+
+## Contributors
+* Richard Krasso
+* Mordechai Meyers
+
