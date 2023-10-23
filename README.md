@@ -1,4 +1,4 @@
-# web-231 enterprise JavaScript I
+# web-330 enterprise JavaScript II
 
 ## Contributors
 * Richard Krasso
